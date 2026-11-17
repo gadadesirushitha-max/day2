@@ -1,0 +1,49 @@
+Control Statements:
+control statements are divided into three(3) types
+  1. Conditional statements
+  ->if
+  Syntax:
+  if condition{
+  //block of code
+}
+  ->if else
+    Syntax:
+    if conditon{
+    //block of code
+  }
+else{
+  //block of code
+}
+  ->elseif ladder
+    Syntax:
+if condition1{
+  //block od code
+}
+else if conditon2{
+  //block of code
+}
+else if condition3{
+  //block of code
+}
+else if condition4{
+  //block of code
+}
+else{
+  //block of code
+}
+  ->nestedif
+    Syntax:
+if condition1{
+  if condition2{
+    \\block of code statement2
+  }
+  \\block of code statement1
+  ->switch
+  2. Looping statements
+  ->for
+  ->while
+  ->do while
+  3. Jumping statements
+  ->continue
+  ->break
+  ->return
