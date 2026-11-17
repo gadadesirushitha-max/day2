@@ -38,7 +38,22 @@ if condition1{
     \\block of code statement2
   }
   \\block of code statement1
+}
   ->switch
+Syntax:
+switch(condition){
+case 1:
+\\statement 1;
+\\break;
+case 2:
+\\statement 2;
+\\break;
+case n:
+\\statement n;
+\\break;
+default:
+\\statement
+\\break;
   2. Looping statements
   ->for
   ->while
